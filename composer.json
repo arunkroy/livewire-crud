@@ -17,7 +17,7 @@
     ],
     "require": {
         "php": "^8.1.0",
-        "livewire/livewire": "*",
+        "livewire/livewire": "^2.0",
         "laravel/breeze": "*",
         "jantinnerezo/livewire-alert": "^2.1",
         "rappasoft/laravel-livewire-tables": "*",
