@@ -17,11 +17,11 @@
     ],
     "require": {
         "php": "^7.4 || ^8.0",
-        "laravel/framework": "^8.0",
-        "livewire/livewire": "^3.0",
+        "laravel/framework": "^8.54",
+        "livewire/livewire": "^2.12",
         "jantinnerezo/livewire-alert": "^2.2",
         "rappasoft/laravel-livewire-tables": "^2.0",
-        "sagor110090/livewire-modal": "^1.0"
+        "sagor110090/livewire-modal": "^0.0.5"
     },
     "require-dev": {},
     "autoload": {
