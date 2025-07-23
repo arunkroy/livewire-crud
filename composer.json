@@ -18,8 +18,8 @@
     "require": {
         "php": "^7.4 || ^8.0",
         "laravel/framework": "^8.54",
-        "livewire/livewire": "^2.12",
-        "jantinnerezo/livewire-alert": "^2.2 || ^4.0",
+        "livewire/livewire": "^3.0",
+        "jantinnerezo/livewire-alert": "^4.0"
         "rappasoft/laravel-livewire-tables": "^2.0",
         "sagor110090/livewire-modal": "dev-main"
     },
