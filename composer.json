@@ -20,7 +20,6 @@
         "laravel/framework": "^10.0",
         "livewire/livewire": "^3.0",
         "jantinnerezo/livewire-alert": "^4.0",
-        "rappasoft/laravel-livewire-tables": "^2.6",
         "sagor110090/livewire-modal": "dev-main"
     },
     "require-dev": {},
