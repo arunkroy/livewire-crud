@@ -21,7 +21,7 @@
         "livewire/livewire": "^2.12",
         "jantinnerezo/livewire-alert": "^2.2",
         "rappasoft/laravel-livewire-tables": "^2.0",
-        "sagor110090/livewire-modal": "^0.0.5"
+        "sagor110090/livewire-modal": "^1.0"
     },
     "require-dev": {},
     "autoload": {
